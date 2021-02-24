@@ -3,4 +3,4 @@ npm install -g all-the-package-names bash-language-server vscode-css-languageser
 
 sudo pacman -S --needed texlab
 
-yay -S --needed clojure-lsp-bin lua-language-server-git
+yay -S --needed clojure-lsp-bin lua-language-server
